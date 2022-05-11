@@ -1,0 +1,18 @@
+body {
+  background-color: #000000;
+}
+
+.displayedNumber {
+  text-align: center;
+  padding-top: 80px;
+  font-size: 3cm;
+}
+
+button{
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, 0);
+  padding: 12px 28px;
+  width: 120px;
+  height: 60px;
+}
